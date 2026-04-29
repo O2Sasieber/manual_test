@@ -1,0 +1,25 @@
+site_name: My Manual
+site_description: Product documentation
+site_author: Your Company
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+
+plugins:
+  - search
+  - macros
+  - glightbox
+
+extra:
+  product_name: "SYMBIOS CCR"
+  product_version: "Rev A"
+
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
