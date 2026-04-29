@@ -7,3 +7,6 @@
 The {{ product_name }} operates at  each dive center in the world.
 
 ![Image of our diver](images/diver.png)
+
+
+Hallihallo!!!!
